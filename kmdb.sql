@@ -133,6 +133,173 @@ VALUES (
     "Christopher Nolan"
 );
 
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "Batman Begins",
+    "Christian Bale",
+    "Bruce Wayne"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "Batman Begins",
+    "Michael Caine",
+    "Alfred"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "Batman Begins",
+    "Liam Neeson",
+    "Ra's Al Ghul"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "Batman Begins",
+    "Katie Holmes",
+    "Rachel Dawes"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "Batman Begins",
+    "Gary Oldman",
+    "Commissioner Gordon"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight",
+    "Christian Bale",
+    "Bruce Wayne"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight",
+    "Heath Ledger",
+    "Joker"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight",
+    "Aaron Eckhart",
+    "Harvey Dent"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight",
+    "Michael Caine",
+    "Alfred"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight",
+    "Maggie Gyllenhaal",
+    "Rachel Dawes"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight Rises",
+    "Christian Bale",
+    "Bruce Wayne"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight Rises",
+    "Gary Oldman",
+    "Commissioner Gordon"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight Rises",
+    "Tom Hardy",
+    "Bane"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight Rises",
+    "Joseph Gordon-Levitt",
+    "John Blake"
+);
+
+INSERT INTO top_cast (
+    title,
+    actor_name,
+    role
+)
+VALUES (
+    "The Dark Knight Rises",
+    "Anne Hathaway",
+    "Selina Kyle"
+);
+
+-- The Dark Knight Rises  Anne Hathaway         Selina Kyle
+
 -- Prints a header for the movies output
 .print "Movies"
 .print "======"
