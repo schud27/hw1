@@ -298,8 +298,6 @@ VALUES (
     "Selina Kyle"
 );
 
--- The Dark Knight Rises  Anne Hathaway         Selina Kyle
-
 -- Prints a header for the movies output
 .print "Movies"
 .print "======"
