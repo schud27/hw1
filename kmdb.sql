@@ -306,7 +306,9 @@ VALUES (
 -- The SQL statement for the movies output
 -- TODO!
 
-SELECT * from movies;
+SELECT title, year, mpaa_rating, director
+FROM movies
+;
 
 -- Prints a header for the cast output
 .print ""
@@ -318,4 +320,6 @@ SELECT * from movies;
 -- The SQL statement for the cast output
 -- TODO!
 
-SELECT * from top_cast;
+SELECT title, actor_name, role
+FROM top_cast
+;
