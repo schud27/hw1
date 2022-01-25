@@ -95,8 +95,8 @@
 -- TODO!
 
 
-DROP TABLE IF EXISTS movies ;
-DROP TABLE IF EXISTS top_cast ;
+DROP TABLE IF EXISTS movies;
+DROP TABLE IF EXISTS top_cast;
 
 CREATE TABLE movies (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -110,5 +110,5 @@ CREATE TABLE top_cast (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     title TEXT,
     actor_name TEXT,
-    role TEXT,
+    role TEXT
 );
